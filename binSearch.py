@@ -17,9 +17,7 @@ def binSearch(L, n):
 			hi = mid
 		else:
 			lo = mid
-
 	return None
-
 
 L = [1, 2, 3, 4, 5, 8, 9, 10, 24, 56, 67, 89, 102, 345, 677, 2345, 23457, 23758]
 
